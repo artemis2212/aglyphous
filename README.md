@@ -10,3 +10,6 @@ This was the first program I made.  It tells you what time a timer will go off (
 This is a random number generator that's modified to run until it finds a number that is on a list. The list is reference numbers for different dinosaur genera, from several different taxa I'm interested in. (Yes, I know this is only minimally useful, and I could have saved a lot of time by just picking one species instead of writing this)
 
 
+
+3) cipher.py
+This is a simple caeser shift cipher. It converts a message into numbers, shifts them by "x" then converts back into a new message. Allows for positive or negative numbers, but can't decrypt messages yet. (unless you want to bruteforce it). 
